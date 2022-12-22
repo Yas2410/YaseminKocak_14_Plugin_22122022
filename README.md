@@ -20,7 +20,7 @@ _Full example code is available in_`src/example/App.js`
 In your project directory, run the following command to install the npm package:
 
 ```sh
-npm i yas2410-react-modal
+npm i yk-react-modal-plugin
 ```
 
 ## How to import the component in your project ?
