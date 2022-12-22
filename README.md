@@ -13,7 +13,7 @@ _Full example code is available in_`src/example/App.js`
 
 ### NPM Link
 
-[npm](https://www.npmjs.com/package/yas2410-react-modal)
+[React Modal Plugin](https://www.npmjs.com/package/yas2410-react-modal)
 
 ### Project Installation
 
@@ -26,5 +26,9 @@ npm i yas2410-react-modal
 ## How to import the component in your project ?
 
 In your file, import the component from the installed package like this:
-`import { Modal } from 'yas2410-react-modal';`
+
+```sh
+import { Modal } from 'yas2410-react-modal'
+```
+
 _Use your own parameters according the example_
