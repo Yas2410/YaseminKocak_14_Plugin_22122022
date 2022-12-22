@@ -32,3 +32,17 @@ import { Modal } from 'yas2410-react-modal'
 ```
 
 _Use your own parameters according the example_
+
+```
+import { Modal } from "yas2410-react-modal";
+
+ const [modalIsOpen, setModalIsOpen] = useState();
+ <Modal
+      display={modalIsOpen}
+      setDisplay={setModalIsOpen}
+      img={img}
+      title="title"
+      txt="txt"
+    />
+
+```
