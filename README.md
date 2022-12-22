@@ -13,7 +13,7 @@ _Full example code is available in_`src/example/App.js`
 
 ### NPM Link
 
-[React Modal Plugin](https://www.npmjs.com/package/yas2410-react-modal)
+[React Modal Plugin](https://www.npmjs.com/package/yk-react-modal-plugin)
 
 ### Project Installation
 
@@ -28,13 +28,13 @@ npm i yas2410-react-modal
 In your file, import the component from the installed package like this:
 
 ```sh
-import { Modal } from 'yas2410-react-modal'
+import { Modal } from 'yk-react-modal-plugin'
 ```
 
 _Use your own parameters according the example_
 
 ```
-import { Modal } from "yas2410-react-modal";
+import { Modal } from "yk-react-modal-plugin";
 
  const [modalIsOpen, setModalIsOpen] = useState();
  <Modal
